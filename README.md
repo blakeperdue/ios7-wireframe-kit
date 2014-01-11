@@ -9,4 +9,11 @@ Born out of my own need for a good way to rapidly wireframe in Illustrator, this
 
 ![iOS 7 Wireframe Kit Preview](/iOS7-Wireframe-Kit.png "iOS 7 Wireframe Kit Preview")
 
+<p align="center">
+<img alt="iOS 7 Wireframe Kit Preview (Omnigraffle)" src="https://github.com/SidneyS/ios7-wireframe-kit/raw/master/iOS7-Wireframe-Kit-Example-Omnigraffle.png"/>
+</p>
+
 [Creative Commons Attribution-NoDerivs 3.0 Unported License](https://creativecommons.org/licenses/by-nd/3.0/)
+
+
+
