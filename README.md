@@ -1,7 +1,7 @@
 iOS 7 Wireframe Kit
 ===================
 
-###An Illustrator kit to make your wireframing a day at the beach
+### An Illustrator kit to make your wireframing a day at the beach
 
 http://blakeperdue.com/ios7-wireframe-kit
 
